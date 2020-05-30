@@ -1,0 +1,331 @@
+Parameter,Date,Value,Ticker,Company,Type,Finacial Type,Created Date
+Revenue,2019-09-30,260174.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2018-09-30,265595.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2017-09-30,229234.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2016-09-30,215639.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2015-09-30,233715.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2014-09-30,182795.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2013-09-30,170910.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2012-09-30,156508.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2011-09-30,108249.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2010-09-30,65225.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2009-09-30,42905.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2008-09-30,37491.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2007-09-30,24578.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2006-09-30,19315.00000,AAPL,apple,financial-ration,Q,05-29-20
+Revenue,2005-09-30,13931.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2019-09-30,161782.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2018-09-30,163756.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2017-09-30,141048.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2016-09-30,131376.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2015-09-30,140089.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2014-09-30,112258.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2013-09-30,106606.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2012-09-30,87846.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2011-09-30,64431.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2010-09-30,39541.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2009-09-30,25683.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2008-09-30,24294.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2007-09-30,16426.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2006-09-30,13717.00000,AAPL,apple,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2005-09-30,9889.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2019-09-30,98392.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2018-09-30,101839.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2017-09-30,88186.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2016-09-30,84263.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2015-09-30,93626.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2014-09-30,70537.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2013-09-30,64304.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2012-09-30,68662.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2011-09-30,43818.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2010-09-30,25684.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2009-09-30,17222.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2008-09-30,13197.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2007-09-30,8152.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2006-09-30,5598.00000,AAPL,apple,financial-ration,Q,05-29-20
+Gross Profit,2005-09-30,4042.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2019-09-30,16217.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2018-09-30,14236.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2017-09-30,11581.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2016-09-30,10045.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2015-09-30,8067.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2014-09-30,6041.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2013-09-30,4475.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2012-09-30,3381.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2011-09-30,2429.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2010-09-30,1782.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2009-09-30,1333.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2008-09-30,1109.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2007-09-30,782.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2006-09-30,712.00000,AAPL,apple,financial-ration,Q,05-29-20
+Research And Development Expenses,2005-09-30,535.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2019-09-30,18245.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2018-09-30,16705.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2017-09-30,15261.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2016-09-30,14194.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2015-09-30,14329.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2014-09-30,11993.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2013-09-30,10830.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2012-09-30,10040.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2011-09-30,7599.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2010-09-30,5517.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2009-09-30,4149.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2008-09-30,3761.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2007-09-30,2963.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2006-09-30,2433.00000,AAPL,apple,financial-ration,Q,05-29-20
+SG&A Expenses,2005-09-30,1864.00000,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2019-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2018-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2017-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2016-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2015-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2014-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2013-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2012-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2011-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2010-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2009-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2008-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2007-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2006-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2005-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2019-09-30,196244.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2018-09-30,194697.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2017-09-30,167890.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2016-09-30,155615.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2015-09-30,162485.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2014-09-30,130292.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2013-09-30,121911.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2012-09-30,101267.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2011-09-30,74459.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2010-09-30,46840.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2009-09-30,31165.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2008-09-30,29164.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2007-09-30,20171.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2006-09-30,16862.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Expenses,2005-09-30,12288.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2019-09-30,63930.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2018-09-30,70898.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2017-09-30,61344.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2016-09-30,60024.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2015-09-30,71230.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2014-09-30,52503.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2013-09-30,48999.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2012-09-30,55241.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2011-09-30,33790.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2010-09-30,18385.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2009-09-30,11740.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2008-09-30,8327.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2007-09-30,4407.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2006-09-30,2453.00000,AAPL,apple,financial-ration,Q,05-29-20
+Operating Income,2005-09-30,1643.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2019-09-30,1807.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2018-09-30,2005.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2017-09-30,2745.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2016-09-30,1348.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2015-09-30,1285.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2014-09-30,980.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2013-09-30,1156.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2012-09-30,522.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2011-09-30,415.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2010-09-30,155.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2009-09-30,326.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2008-09-30,620.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2007-09-30,599.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2006-09-30,365.00000,AAPL,apple,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2005-09-30,165.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2019-09-30,65737.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2018-09-30,72903.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2017-09-30,64089.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2016-09-30,61372.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2015-09-30,72515.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2014-09-30,53483.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2013-09-30,50155.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2012-09-30,55763.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2011-09-30,34205.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2010-09-30,18540.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2009-09-30,12066.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2008-09-30,8947.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2007-09-30,5006.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2006-09-30,2818.00000,AAPL,apple,financial-ration,Q,05-29-20
+Pre-Tax Income,2005-09-30,1808.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2019-09-30,10481.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2018-09-30,13372.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2017-09-30,15738.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2016-09-30,15685.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2015-09-30,19121.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2014-09-30,13973.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2013-09-30,13118.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2012-09-30,14030.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2011-09-30,8283.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2010-09-30,4527.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2009-09-30,3831.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2008-09-30,2828.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2007-09-30,1511.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2006-09-30,829.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income Taxes,2005-09-30,480.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2019-09-30,55256.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2018-09-30,59531.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2017-09-30,48351.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2016-09-30,45687.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2015-09-30,53394.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2014-09-30,39510.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2013-09-30,37037.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2012-09-30,41733.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2011-09-30,25922.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2010-09-30,14013.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2009-09-30,8235.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2008-09-30,6119.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2007-09-30,3495.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2006-09-30,1989.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income After Taxes,2005-09-30,1328.00000,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2019-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2018-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2017-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2016-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2015-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2014-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2013-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2012-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2011-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2010-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2009-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2008-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2007-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2006-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Other Income,2005-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2019-09-30,55256.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2018-09-30,59531.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2017-09-30,48351.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2016-09-30,45687.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2015-09-30,53394.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2014-09-30,39510.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2013-09-30,37037.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2012-09-30,41733.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2011-09-30,25922.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2010-09-30,14013.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2009-09-30,8235.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2008-09-30,6119.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2007-09-30,3495.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2006-09-30,1989.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Continuous Operations,2005-09-30,1328.00000,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2019-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2018-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2017-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2016-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2015-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2014-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2013-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2012-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2011-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2010-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2009-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2008-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2007-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2006-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2005-09-30,,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2019-09-30,55256.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2018-09-30,59531.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2017-09-30,48351.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2016-09-30,45687.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2015-09-30,53394.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2014-09-30,39510.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2013-09-30,37037.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2012-09-30,41733.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2011-09-30,25922.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2010-09-30,14013.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2009-09-30,8235.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2008-09-30,6119.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2007-09-30,3495.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2006-09-30,1989.00000,AAPL,apple,financial-ration,Q,05-29-20
+Net Income,2005-09-30,1328.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2019-09-30,76477.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2018-09-30,81801.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2017-09-30,71501.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2016-09-30,70529.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2015-09-30,82487.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2014-09-30,60449.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2013-09-30,55756.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2012-09-30,58518.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2011-09-30,35604.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2010-09-30,19412.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2009-09-30,12474.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2008-09-30,8823.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2007-09-30,4734.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2006-09-30,2678.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBITDA,2005-09-30,1822.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2019-09-30,63930.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2018-09-30,70898.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2017-09-30,61344.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2016-09-30,60024.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2015-09-30,71230.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2014-09-30,52503.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2013-09-30,48999.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2012-09-30,55241.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2011-09-30,33790.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2010-09-30,18385.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2009-09-30,11740.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2008-09-30,8327.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2007-09-30,4407.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2006-09-30,2453.00000,AAPL,apple,financial-ration,Q,05-29-20
+EBIT,2005-09-30,1643.00000,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2019-09-30,4617.83400,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2018-09-30,4955.37700,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2017-09-30,5217.24200,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2016-09-30,5470.82000,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2015-09-30,5753.42100,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2014-09-30,6085.57200,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2013-09-30,6477.32000,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2012-09-30,6543.72600,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2011-09-30,6469.80600,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2010-09-30,6366.22700,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2009-09-30,6251.11200,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2008-09-30,6171.14400,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2007-09-30,6052.16500,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2006-09-30,5908.40600,AAPL,apple,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2005-09-30,5659.07300,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2019-09-30,4648.91300,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2018-09-30,5000.10900,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2017-09-30,5251.69200,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2016-09-30,5500.28100,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2015-09-30,5793.06900,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2014-09-30,6122.66300,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2013-09-30,6521.63400,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2012-09-30,6617.48300,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2011-09-30,6556.51500,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2010-09-30,6472.98400,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2009-09-30,6349.03500,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2008-09-30,6314.97300,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2007-09-30,6225.04400,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2006-09-30,6142.68200,AAPL,apple,financial-ration,Q,05-29-20
+Shares Outstanding,2005-09-30,5998.14600,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2019-09-30,11.97000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2018-09-30,12.01000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2017-09-30,9.27000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2016-09-30,8.35000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2015-09-30,9.28000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2014-09-30,6.49000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2013-09-30,5.72000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2012-09-30,6.38000,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2011-09-30,4.00710,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2010-09-30,2.20140,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2009-09-30,1.31710,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2008-09-30,0.99140,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2007-09-30,0.57710,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2006-09-30,0.33710,AAPL,apple,financial-ration,Q,05-29-20
+Basic EPS,2005-09-30,0.23430,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2019-09-30,11.89000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2018-09-30,11.91000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2017-09-30,9.21000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2016-09-30,8.31000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2015-09-30,9.22000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2014-09-30,6.45000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2013-09-30,5.68000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2012-09-30,6.31000,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2011-09-30,3.95430,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2010-09-30,2.16430,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2009-09-30,1.29710,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2008-09-30,0.96860,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2007-09-30,0.56140,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2006-09-30,0.32430,AAPL,apple,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2005-09-30,0.22140,AAPL,apple,financial-ration,Q,05-29-20

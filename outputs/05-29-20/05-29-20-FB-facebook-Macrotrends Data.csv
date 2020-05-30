@@ -1,0 +1,287 @@
+Parameter,Date,Value,Ticker,Company,Type,Finacial Type,Created Date
+Revenue,2019-12-31,70697.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2018-12-31,55838.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2017-12-31,40653.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2016-12-31,27638.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2015-12-31,17928.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2014-12-31,12466.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2013-12-31,7872.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2012-12-31,5089.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2011-12-31,3711.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2010-12-31,1974.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2009-12-31,777.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2008-12-31,272.00000,FB,facebook,financial-ration,Q,05-29-20
+Revenue,2007-12-31,153.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2019-12-31,12770.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2018-12-31,9355.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2017-12-31,5454.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2016-12-31,3789.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2015-12-31,2867.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2014-12-31,2153.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2013-12-31,1875.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2012-12-31,1364.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2011-12-31,860.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2010-12-31,493.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2009-12-31,223.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2008-12-31,124.00000,FB,facebook,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2007-12-31,41.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2019-12-31,57927.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2018-12-31,46483.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2017-12-31,35199.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2016-12-31,23849.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2015-12-31,15061.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2014-12-31,10313.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2013-12-31,5997.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2012-12-31,3725.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2011-12-31,2851.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2010-12-31,1481.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2009-12-31,554.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2008-12-31,148.00000,FB,facebook,financial-ration,Q,05-29-20
+Gross Profit,2007-12-31,112.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2019-12-31,13600.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2018-12-31,10273.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2017-12-31,7754.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2016-12-31,5919.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2015-12-31,4816.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2014-12-31,2666.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2013-12-31,1415.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2012-12-31,1399.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2011-12-31,388.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2010-12-31,144.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2009-12-31,87.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2008-12-31,47.00000,FB,facebook,financial-ration,Q,05-29-20
+Research And Development Expenses,2007-12-31,81.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2019-12-31,20341.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2018-12-31,11297.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2017-12-31,7242.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2016-12-31,5503.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2015-12-31,4020.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2014-12-31,2653.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2013-12-31,1778.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2012-12-31,1788.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2011-12-31,707.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2010-12-31,305.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2009-12-31,205.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2008-12-31,156.00000,FB,facebook,financial-ration,Q,05-29-20
+SG&A Expenses,2007-12-31,155.00000,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2019-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2018-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2017-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2016-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2015-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2014-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2013-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2012-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2011-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2010-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2009-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2008-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2007-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2019-12-31,46711.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2018-12-31,30925.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2017-12-31,20450.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2016-12-31,15211.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2015-12-31,11703.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2014-12-31,7472.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2013-12-31,5068.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2012-12-31,4551.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2011-12-31,1955.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2010-12-31,942.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2009-12-31,515.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2008-12-31,327.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Expenses,2007-12-31,277.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2019-12-31,23986.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2018-12-31,24913.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2017-12-31,20203.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2016-12-31,12427.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2015-12-31,6225.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2014-12-31,4994.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2013-12-31,2804.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2012-12-31,538.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2011-12-31,1756.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2010-12-31,1032.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2009-12-31,262.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2008-12-31,-55.00000,FB,facebook,financial-ration,Q,05-29-20
+Operating Income,2007-12-31,-124.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2019-12-31,826.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2018-12-31,448.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2017-12-31,391.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2016-12-31,91.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2015-12-31,-31.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2014-12-31,-84.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2013-12-31,-50.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2012-12-31,-44.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2011-12-31,-61.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2010-12-31,-24.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2009-12-31,-8.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2008-12-31,-1.00000,FB,facebook,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2007-12-31,-11.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2019-12-31,24812.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2018-12-31,25361.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2017-12-31,20594.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2016-12-31,12518.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2015-12-31,6194.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2014-12-31,4910.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2013-12-31,2754.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2012-12-31,494.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2011-12-31,1695.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2010-12-31,1008.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2009-12-31,254.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2008-12-31,-56.00000,FB,facebook,financial-ration,Q,05-29-20
+Pre-Tax Income,2007-12-31,-135.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2019-12-31,6327.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2018-12-31,3249.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2017-12-31,4660.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2016-12-31,2301.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2015-12-31,2506.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2014-12-31,1970.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2013-12-31,1254.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2012-12-31,441.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2011-12-31,695.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2010-12-31,402.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2009-12-31,25.00000,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2008-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income Taxes,2007-12-31,3.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2019-12-31,18485.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2018-12-31,22112.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2017-12-31,15934.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2016-12-31,10217.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2015-12-31,3688.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2014-12-31,2940.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2013-12-31,1500.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2012-12-31,53.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2011-12-31,1000.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2010-12-31,606.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2009-12-31,229.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2008-12-31,-56.00000,FB,facebook,financial-ration,Q,05-29-20
+Income After Taxes,2007-12-31,-138.00000,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2019-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2018-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2017-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2016-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2015-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2014-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2013-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2012-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2011-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2010-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2009-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2008-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Other Income,2007-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2019-12-31,18485.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2018-12-31,22112.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2017-12-31,15934.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2016-12-31,10217.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2015-12-31,3688.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2014-12-31,2940.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2013-12-31,1500.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2012-12-31,53.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2011-12-31,1000.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2010-12-31,606.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2009-12-31,229.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2008-12-31,-56.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Continuous Operations,2007-12-31,-138.00000,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2019-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2018-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2017-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2016-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2015-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2014-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2013-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2012-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2011-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2010-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2009-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2008-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2007-12-31,,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2019-12-31,18485.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2018-12-31,22111.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2017-12-31,15920.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2016-12-31,10188.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2015-12-31,3669.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2014-12-31,2925.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2013-12-31,1491.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2012-12-31,32.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2011-12-31,668.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2010-12-31,372.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2009-12-31,122.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2008-12-31,-56.00000,FB,facebook,financial-ration,Q,05-29-20
+Net Income,2007-12-31,-138.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2019-12-31,29727.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2018-12-31,29228.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2017-12-31,23228.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2016-12-31,14769.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2015-12-31,8170.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2014-12-31,6237.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2013-12-31,3815.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2012-12-31,1187.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2011-12-31,2079.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2010-12-31,1171.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2009-12-31,340.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2008-12-31,-55.00000,FB,facebook,financial-ration,Q,05-29-20
+EBITDA,2007-12-31,-124.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2019-12-31,23986.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2018-12-31,24913.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2017-12-31,20203.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2016-12-31,12427.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2015-12-31,6225.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2014-12-31,4994.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2013-12-31,2804.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2012-12-31,538.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2011-12-31,1756.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2010-12-31,1032.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2009-12-31,262.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2008-12-31,-55.00000,FB,facebook,financial-ration,Q,05-29-20
+EBIT,2007-12-31,-124.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2019-12-31,2854.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2018-12-31,2890.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2017-12-31,2901.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2016-12-31,2863.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2015-12-31,2803.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2014-12-31,2614.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2013-12-31,2420.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2012-12-31,2006.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2011-12-31,1294.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2010-12-31,1107.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2009-12-31,1020.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2008-12-31,933.00000,FB,facebook,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2007-12-31,862.50000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2019-12-31,2876.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2018-12-31,2921.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2017-12-31,2956.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2016-12-31,2925.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2015-12-31,2853.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2014-12-31,2664.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2013-12-31,2517.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2012-12-31,2166.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2011-12-31,1508.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2010-12-31,1414.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2009-12-31,2732.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2008-12-31,933.00000,FB,facebook,financial-ration,Q,05-29-20
+Shares Outstanding,2007-12-31,862.50000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2019-12-31,6.48000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2018-12-31,7.65000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2017-12-31,5.49000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2016-12-31,3.56000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2015-12-31,1.31000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2014-12-31,1.12000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2013-12-31,0.62000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2012-12-31,0.02000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2011-12-31,0.52000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2010-12-31,0.34000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2009-12-31,0.12000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2008-12-31,-0.06000,FB,facebook,financial-ration,Q,05-29-20
+Basic EPS,2007-12-31,-0.16000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2019-12-31,6.43000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2018-12-31,7.57000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2017-12-31,5.39000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2016-12-31,3.49000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2015-12-31,1.29000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2014-12-31,1.10000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2013-12-31,0.60000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2012-12-31,0.01000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2011-12-31,0.46000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2010-12-31,0.28000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2009-12-31,0.10000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2008-12-31,-0.06000,FB,facebook,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2007-12-31,-0.16000,FB,facebook,financial-ration,Q,05-29-20

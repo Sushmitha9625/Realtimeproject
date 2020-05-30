@@ -1,0 +1,221 @@
+Parameter,Date,Value,Ticker,Company,Type,Finacial Type,Created Date
+Revenue,2019-03-31,56152.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2018-03-31,39898.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2017-03-31,22994.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2016-03-31,15686.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2015-03-31,12293.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2014-03-31,8463.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2013-03-31,5553.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2012-03-31,3135.91500,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2011-03-31,1777.11800,BABA,alibaba,financial-ration,Q,05-29-20
+Revenue,2010-03-31,977.82200,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2019-03-31,30833.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2018-03-31,17065.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2017-03-31,8642.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2016-03-31,5328.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2015-03-31,3845.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2014-03-31,2155.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2013-03-31,1563.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2012-03-31,1026.35600,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2011-03-31,522.10210,BABA,alibaba,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2010-03-31,239.54440,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2019-03-31,25319.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2018-03-31,22833.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2017-03-31,14352.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2016-03-31,10358.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2015-03-31,8448.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2014-03-31,6308.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2013-03-31,3990.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2012-03-31,2109.55900,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2011-03-31,1255.01600,BABA,alibaba,financial-ration,Q,05-29-20
+Gross Profit,2010-03-31,738.27760,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2019-03-31,5578.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2018-03-31,3628.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2017-03-31,2479.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2016-03-31,2138.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2015-03-31,1720.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2014-03-31,821.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2013-03-31,604.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2012-03-31,453.67020,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2011-03-31,307.85660,BABA,alibaba,financial-ration,Q,05-29-20
+Research And Development Expenses,2010-03-31,166.39100,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2019-03-31,9636.00000,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2018-03-31,6941.00000,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2017-03-31,4148.00000,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2016-03-31,3181.00000,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2015-03-31,2631.00000,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2014-03-31,1412.00000,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2013-03-31,1046.00000,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2012-03-31,825.12540,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2011-03-31,728.28540,BABA,alibaba,financial-ration,Q,05-29-20
+SG&A Expenses,2010-03-31,488.91100,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2019-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2018-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2017-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2016-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2015-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2014-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2013-03-31,-561.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2012-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2011-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2010-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2019-03-31,47646.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2018-03-31,28769.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2017-03-31,16013.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2016-03-31,11102.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2015-03-31,8533.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2014-03-31,4439.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2013-03-31,3795.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2012-03-31,2329.42500,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2011-03-31,1579.74300,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Expenses,2010-03-31,914.05100,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2019-03-31,8506.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2018-03-31,11129.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2017-03-31,6981.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2016-03-31,4584.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2015-03-31,3760.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2014-03-31,4024.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2013-03-31,1758.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2012-03-31,806.49000,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2011-03-31,197.37480,BABA,alibaba,financial-ration,Q,05-29-20
+Operating Income,2010-03-31,63.77100,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2019-03-31,5831.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2018-03-31,4878.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2017-03-31,1740.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2016-03-31,8051.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2015-03-31,1455.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2014-03-31,296.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2013-03-31,-131.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2012-03-31,59.82120,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2011-03-31,91.52090,BABA,alibaba,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2010-03-31,-106.13840,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2019-03-31,14337.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2018-03-31,16007.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2017-03-31,8721.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2016-03-31,12635.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2015-03-31,5215.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2014-03-31,4320.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2013-03-31,1627.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2012-03-31,866.31120,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2011-03-31,288.89550,BABA,alibaba,financial-ration,Q,05-29-20
+Pre-Tax Income,2010-03-31,-42.36740,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2019-03-31,2466.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2018-03-31,2901.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2017-03-31,2002.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2016-03-31,1310.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2015-03-31,1035.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2014-03-31,515.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2013-03-31,234.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2012-03-31,131.85720,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2011-03-31,48.82110,BABA,alibaba,financial-ration,Q,05-29-20
+Income Taxes,2010-03-31,26.53460,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2019-03-31,11871.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2018-03-31,13106.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2017-03-31,6719.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2016-03-31,11325.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2015-03-31,4180.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2014-03-31,3805.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2013-03-31,1393.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2012-03-31,734.45400,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2011-03-31,240.07440,BABA,alibaba,financial-ration,Q,05-29-20
+Income After Taxes,2010-03-31,-68.90200,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2019-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2018-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2017-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2016-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2015-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2014-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2013-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2012-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2011-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Other Income,2010-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2019-03-31,11955.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2018-03-31,9791.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2017-03-31,5989.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2016-03-31,11056.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2015-03-31,3923.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2014-03-31,3772.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2013-03-31,1392.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2012-03-31,730.53910,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2011-03-31,240.07440,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Continuous Operations,2010-03-31,-73.73980,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2019-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2018-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2017-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2016-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2015-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2014-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2013-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2012-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2011-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2010-03-31,,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2019-03-31,13053.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2018-03-31,10201.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2017-03-31,6345.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2016-03-31,11083.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2015-03-31,3896.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2014-03-31,3720.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2013-03-31,1352.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2012-03-31,662.10480,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2011-03-31,176.62190,BABA,alibaba,financial-ration,Q,05-29-20
+Net Income,2010-03-31,-117.57320,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2019-03-31,14030.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2018-03-31,14639.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2017-03-31,9058.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2016-03-31,5623.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2015-03-31,4472.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2014-03-31,4291.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2013-03-31,1908.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2012-03-31,942.73200,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2011-03-31,197.37480,BABA,alibaba,financial-ration,Q,05-29-20
+EBITDA,2010-03-31,63.77100,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2019-03-31,8506.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2018-03-31,11129.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2017-03-31,6981.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2016-03-31,4584.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2015-03-31,3760.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2014-03-31,4024.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2013-03-31,1758.00000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2012-03-31,806.49000,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2011-03-31,197.37480,BABA,alibaba,financial-ration,Q,05-29-20
+EBIT,2010-03-31,63.77100,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2019-03-31,2580.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2018-03-31,2553.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2017-03-31,2493.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2016-03-31,2458.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2015-03-31,2337.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2014-03-31,2175.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2013-03-31,2294.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2012-03-31,2479.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2011-03-31,2523.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2010-03-31,2351.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2019-03-31,2623.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2018-03-31,2610.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2017-03-31,2573.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2016-03-31,2562.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2015-03-31,2500.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2014-03-31,2332.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2013-03-31,2389.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2012-03-31,2522.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2011-03-31,2523.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Shares Outstanding,2010-03-31,2351.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2019-03-31,5.06000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2018-03-31,4.00000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2017-03-31,2.55000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2016-03-31,4.51000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2015-03-31,1.67000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2014-03-31,1.71000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2013-03-31,0.59000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2012-03-31,0.27000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2011-03-31,0.07000,BABA,alibaba,financial-ration,Q,05-29-20
+Basic EPS,2010-03-31,-0.05000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2019-03-31,4.97000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2018-03-31,3.91000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2017-03-31,2.47000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2016-03-31,4.33000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2015-03-31,1.56000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2014-03-31,1.61000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2013-03-31,0.57000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2012-03-31,0.26000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2011-03-31,0.07000,BABA,alibaba,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2010-03-31,-0.05000,BABA,alibaba,financial-ration,Q,05-29-20

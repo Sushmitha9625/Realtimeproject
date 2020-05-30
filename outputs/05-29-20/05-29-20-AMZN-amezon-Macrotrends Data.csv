@@ -1,0 +1,331 @@
+Parameter,Date,Value,Ticker,Company,Type,Finacial Type,Created Date
+Revenue,2019-12-31,280522.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2018-12-31,232887.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2017-12-31,177866.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2016-12-31,135987.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2015-12-31,107006.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2014-12-31,88988.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2013-12-31,74452.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2012-12-31,61093.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2011-12-31,48077.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2010-12-31,34204.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2009-12-31,24509.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2008-12-31,19166.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2007-12-31,14835.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2006-12-31,10711.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Revenue,2005-12-31,8490.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2019-12-31,165536.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2018-12-31,139156.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2017-12-31,111934.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2016-12-31,88265.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2015-12-31,71651.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2014-12-31,62752.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2013-12-31,54181.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2012-12-31,45971.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2011-12-31,37288.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2010-12-31,26561.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2009-12-31,18978.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2008-12-31,14896.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2007-12-31,11482.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2006-12-31,8255.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Cost Of Goods Sold,2005-12-31,6451.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2019-12-31,114986.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2018-12-31,93731.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2017-12-31,65932.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2016-12-31,47722.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2015-12-31,35355.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2014-12-31,26236.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2013-12-31,20271.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2012-12-31,15122.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2011-12-31,10789.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2010-12-31,7643.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2009-12-31,5531.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2008-12-31,4270.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2007-12-31,3353.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2006-12-31,2456.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Gross Profit,2005-12-31,2039.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2019-12-31,35931.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2018-12-31,28837.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2017-12-31,22620.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2016-12-31,16085.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2015-12-31,12540.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2014-12-31,9275.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2013-12-31,6565.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2012-12-31,4564.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2011-12-31,2909.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2010-12-31,1734.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2009-12-31,1240.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2008-12-31,1033.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2007-12-31,818.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2006-12-31,662.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Research And Development Expenses,2005-12-31,451.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2019-12-31,64313.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2018-12-31,52177.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2017-12-31,38992.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2016-12-31,27284.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2015-12-31,20411.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2014-12-31,16650.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2013-12-31,12847.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2012-12-31,9723.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2011-12-31,6864.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2010-12-31,4397.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2009-12-31,3060.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2008-12-31,2419.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2007-12-31,1871.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2006-12-31,1395.00000,AMZN,amezon,financial-ration,Q,05-29-20
+SG&A Expenses,2005-12-31,1109.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2019-12-31,-201.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2018-12-31,-296.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2017-12-31,-214.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2016-12-31,-167.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2015-12-31,-171.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2014-12-31,-133.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2013-12-31,-114.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2012-12-31,-159.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2011-12-31,-154.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2010-12-31,-106.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2009-12-31,-102.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2008-12-31,24.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2007-12-31,-9.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2006-12-31,-10.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Operating Income Or Expenses,2005-12-31,-47.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2019-12-31,265981.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2018-12-31,220466.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2017-12-31,173760.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2016-12-31,131801.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2015-12-31,104773.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2014-12-31,88810.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2013-12-31,73707.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2012-12-31,60417.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2011-12-31,47215.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2010-12-31,32798.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2009-12-31,23380.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2008-12-31,18324.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2007-12-31,14180.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2006-12-31,10322.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Expenses,2005-12-31,8058.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2019-12-31,14541.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2018-12-31,12421.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2017-12-31,4106.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2016-12-31,4186.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2015-12-31,2233.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2014-12-31,178.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2013-12-31,745.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2012-12-31,676.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2011-12-31,862.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2010-12-31,1406.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2009-12-31,1129.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2008-12-31,842.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2007-12-31,655.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2006-12-31,389.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Operating Income,2005-12-31,432.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2019-12-31,-565.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2018-12-31,-1160.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2017-12-31,-300.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2016-12-31,-294.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2015-12-31,-665.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2014-12-31,-289.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2013-12-31,-239.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2012-12-31,-132.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2011-12-31,72.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2010-12-31,91.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2009-12-31,32.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2008-12-31,59.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2007-12-31,5.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2006-12-31,-12.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Total Non-Operating Income/Expense,2005-12-31,-4.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2019-12-31,13976.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2018-12-31,11261.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2017-12-31,3806.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2016-12-31,3892.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2015-12-31,1568.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2014-12-31,-111.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2013-12-31,506.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2012-12-31,544.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2011-12-31,934.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2010-12-31,1497.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2009-12-31,1161.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2008-12-31,901.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2007-12-31,660.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2006-12-31,377.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Pre-Tax Income,2005-12-31,428.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2019-12-31,2374.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2018-12-31,1197.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2017-12-31,769.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2016-12-31,1425.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2015-12-31,950.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2014-12-31,167.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2013-12-31,161.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2012-12-31,428.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2011-12-31,291.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2010-12-31,352.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2009-12-31,253.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2008-12-31,247.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2007-12-31,184.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2006-12-31,187.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income Taxes,2005-12-31,95.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2019-12-31,11602.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2018-12-31,10064.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2017-12-31,3037.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2016-12-31,2467.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2015-12-31,618.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2014-12-31,-278.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2013-12-31,345.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2012-12-31,116.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2011-12-31,643.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2010-12-31,1145.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2009-12-31,908.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2008-12-31,654.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2007-12-31,476.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2006-12-31,190.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income After Taxes,2005-12-31,333.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2019-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2018-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2017-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2016-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2015-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2014-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2013-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2012-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2011-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2010-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2009-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2008-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2007-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2006-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Other Income,2005-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2019-12-31,11588.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2018-12-31,10073.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2017-12-31,3033.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2016-12-31,2371.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2015-12-31,596.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2014-12-31,-241.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2013-12-31,274.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2012-12-31,-39.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2011-12-31,631.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2010-12-31,1152.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2009-12-31,902.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2008-12-31,645.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2007-12-31,476.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2006-12-31,190.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Continuous Operations,2005-12-31,333.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2019-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2018-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2017-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2016-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2015-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2014-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2013-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2012-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2011-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2010-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2009-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2008-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2007-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2006-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Income From Discontinued Operations,2005-12-31,,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2019-12-31,11588.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2018-12-31,10073.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2017-12-31,3033.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2016-12-31,2371.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2015-12-31,596.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2014-12-31,-241.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2013-12-31,274.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2012-12-31,-39.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2011-12-31,631.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2010-12-31,1152.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2009-12-31,902.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2008-12-31,645.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2007-12-31,476.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2006-12-31,190.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Net Income,2005-12-31,359.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2019-12-31,36330.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2018-12-31,27762.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2017-12-31,15584.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2016-12-31,12302.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2015-12-31,8514.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2014-12-31,4924.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2013-12-31,3998.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2012-12-31,2835.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2011-12-31,1945.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2010-12-31,1974.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2009-12-31,1507.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2008-12-31,1129.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2007-12-31,901.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2006-12-31,594.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBITDA,2005-12-31,553.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2019-12-31,14541.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2018-12-31,12421.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2017-12-31,4106.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2016-12-31,4186.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2015-12-31,2233.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2014-12-31,178.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2013-12-31,745.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2012-12-31,676.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2011-12-31,862.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2010-12-31,1406.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2009-12-31,1129.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2008-12-31,842.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2007-12-31,655.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2006-12-31,389.00000,AMZN,amezon,financial-ration,Q,05-29-20
+EBIT,2005-12-31,432.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2019-12-31,494.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2018-12-31,487.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2017-12-31,480.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2016-12-31,474.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2015-12-31,467.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2014-12-31,462.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2013-12-31,457.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2012-12-31,453.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2011-12-31,453.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2010-12-31,447.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2009-12-31,433.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2008-12-31,423.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2007-12-31,413.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2006-12-31,416.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic Shares Outstanding,2005-12-31,412.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2019-12-31,504.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2018-12-31,500.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2017-12-31,493.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2016-12-31,484.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2015-12-31,477.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2014-12-31,462.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2013-12-31,465.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2012-12-31,453.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2011-12-31,461.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2010-12-31,456.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2009-12-31,442.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2008-12-31,432.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2007-12-31,424.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2006-12-31,424.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Shares Outstanding,2005-12-31,426.00000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2019-12-31,23.46000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2018-12-31,20.68000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2017-12-31,6.32000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2016-12-31,5.01000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2015-12-31,1.28000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2014-12-31,-0.52000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2013-12-31,0.60000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2012-12-31,-0.09000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2011-12-31,1.39000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2010-12-31,2.58000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2009-12-31,2.08000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2008-12-31,1.52000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2007-12-31,1.15000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2006-12-31,0.46000,AMZN,amezon,financial-ration,Q,05-29-20
+Basic EPS,2005-12-31,0.87000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2019-12-31,23.01000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2018-12-31,20.14000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2017-12-31,6.15000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2016-12-31,4.90000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2015-12-31,1.25000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2014-12-31,-0.52000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2013-12-31,0.59000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2012-12-31,-0.09000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2011-12-31,1.37000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2010-12-31,2.53000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2009-12-31,2.04000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2008-12-31,1.49000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2007-12-31,1.12000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2006-12-31,0.45000,AMZN,amezon,financial-ration,Q,05-29-20
+EPS - Earnings Per Share,2005-12-31,0.84000,AMZN,amezon,financial-ration,Q,05-29-20
